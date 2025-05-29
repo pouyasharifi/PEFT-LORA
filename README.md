@@ -12,10 +12,11 @@ Performance Comparison: Clear before/after metrics showing improvement
 Interactive Demo: Test the model with custom movie reviews
 GPU Support: Automatically detects and uses CUDA if available
 
-Requirements
-Hardware
+Hardware Requirements
+
 
 Minimum: 4GB RAM, CPU only
+
 Recommended: 8GB RAM, GPU with 4GB+ VRAM
 
 Software Dependencies
